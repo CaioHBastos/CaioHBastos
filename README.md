@@ -26,9 +26,9 @@ I'm a Software Developer and Quality Analyst with automation Test 🖥 (˘◡˘)
 
 <div>
   <a href="https://github.com/CaioBastosImpacta">
-  <img max-width: 100% src="https://github-readme-stats.vercel.app/api?username=CaioBastosImpacta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img max-width: 100% src="https://github-readme-stats.vercel.app/api?username=CaioHBastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </br>
-  <img max-width: 100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBastosImpacta&&layout=compact&hide=shell&theme=dracula"/>
+  <img max-width: 100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHBastos&&layout=compact&hide=shell&theme=dracula"/>
 </div>
   
  ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
