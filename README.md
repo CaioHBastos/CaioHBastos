@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I'm Caio Bastos!</h2>
 
 <!--
-**CaioBastosImpacta/CaioBastosImpacta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CaioHBastos/CaioHBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,7 @@ I'm a Software Developer and Quality Analyst with automation Test 🖥 (˘◡˘)
 ### :octocat: &nbsp;Github Stats
 
 <div>
-  <a href="https://github.com/CaioBastosImpacta">
+  <a href="https://github.com/CaioHBastos">
   <img max-width: 100% src="https://github-readme-stats.vercel.app/api?username=CaioHBastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </br>
   <img max-width: 100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHBastos&&layout=compact&hide=shell&theme=dracula"/>
